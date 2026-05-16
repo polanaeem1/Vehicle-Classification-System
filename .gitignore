@@ -1,0 +1,50 @@
+# Datasets and Data Archives
+Car-Bike-Dataset/
+Datasets/
+*.zip
+*.tar.gz
+
+# Model Weights
+*.pt
+*.pth
+*.h5
+*.keras
+
+# Output Images and Screenshots
+*.png
+*.jpg
+*.jpeg
+Screenshot*
+
+# Python Cache and Environments
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+env/
+.env/
+.venv/
+.Python
+
+# Jupyter Notebooks
+.ipynb_checkpoints/
+*.ipynb
+!car-benchmark-framework.ipynb
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Helper / Temporary Scripts (uncomment to track them)
+check_datasets.py
+generate_kaggle_notebook.py
+modify_ipynb.py
+prepare_colab_bundle.py
+rebuild_notebook.py
+test_best_model.py
+install_anaconda.bat
+generate_benchmark_nb.py
+COLAB_GUIDE.md
+requirements.txt
