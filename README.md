@@ -2,14 +2,6 @@
 
 This project provides an automated vehicle classification system using YOLOv8 and multiple other architectures. It is optimized for both Google Colab and Kaggle to accommodate easy training, benchmarking, and testing.
 
-## 🚀 Getting Started with Google Colab
-
-1. Open [Google Colab](https://colab.research.google.com/).
-2. Upload `Car_Classifier_Colab.ipynb`.
-3. Follow the steps in the notebook to:
-   - Install dependencies.
-   - Run the classifier on a real dataset.
-   - View results and performance metrics.
 
 ## 🏆 Kaggle Benchmarking Framework
 
